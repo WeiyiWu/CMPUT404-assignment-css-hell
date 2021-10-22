@@ -23,6 +23,8 @@ Modifications to Gutenberg HTML files
 
 4. image.hover, will show a light blue shadow
 
+(header font-weight is specified in h2.html and h3.html, so the header in h2.html&h3.html will look different from h1.html)
+
 License/Copyright
 =================
 
