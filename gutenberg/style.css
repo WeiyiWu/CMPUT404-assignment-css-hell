@@ -1,0 +1,35 @@
+h1 { 
+    color: rgb(27, 20, 3); 
+    font-family: 'Times New Roman', sans-serif; 
+    font-size: 75px; 
+    font-weight: bold; 
+    text-align: center; 
+}
+
+h2 {
+    color: rgb(27, 20, 3); 
+    font-family: 'Times New Roman', sans-serif; 
+}
+
+
+p {
+    line-height: 150%;
+    color: rgb(27, 20, 3);
+    font-family: 'Times New Roman', sans-serif; 
+}
+
+body {
+    background-color: rgb(223, 223, 194);
+}
+
+img {
+    border-radius: 6px;
+    font-family: 'Times New Roman', sans-serif; 
+    color: rgb(3, 3, 3);
+}
+
+img:hover {
+    box-shadow: 0 0 6px 3px rgba(0, 140, 186, 0.5);
+  }
+
+  
