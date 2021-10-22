@@ -15,7 +15,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 Modifications to Gutenberg HTML files
 =====================================
 
-1. I changed the header and paragraph font-family to 'Times New Roman' and the color to rgb(27, 20, 3).
+1. I changed the header(h1, h2) and paragraph font-family to 'Times New Roman' and the color to rgb(27, 20, 3).
 
 2. I made the background yellowish.
 
